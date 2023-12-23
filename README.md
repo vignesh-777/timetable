@@ -106,6 +106,6 @@ Execute the program
 </html>
 ```
 # OUPUT
-![](timetable.png)
+![](./Screenshot%20from%202023-12-23%2019-03-29.png)
 # RESULT
 The progam is executed successfully.
